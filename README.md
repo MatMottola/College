@@ -1,6 +1,3 @@
-Exercícios repassados na faculdade FATEC-SP
+Exercises given at FATEC-SP college
 
-Podem conter erros visto que são apenas para aprendizados
-
-
-Qualquer código escrito nao possui nenhum tipo de autoria.
+May contain errors as they are only for learning purposes
