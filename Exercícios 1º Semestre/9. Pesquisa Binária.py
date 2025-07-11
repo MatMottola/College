@@ -26,3 +26,4 @@ if achou == 1:
     print("Número encontrado na posição:", meio + 1)
 else:
     print("Número", num, "não encontrado na sequência.")
+print("Fim da pesquisa binária")
