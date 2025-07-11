@@ -25,4 +25,4 @@ while min <= max and achou == 0:
 if achou == 1:
     print("Número encontrado na posição:", meio + 1)
 else:
-    print("Número", num, "não encontrado na sequência")
+    print("Número", num, "não encontrado na sequência.")
