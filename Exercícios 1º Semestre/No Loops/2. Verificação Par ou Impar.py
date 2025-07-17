@@ -1,3 +1,5 @@
+#Verificador de Par ou Ímpar sem o uso de loops.
+
 num = int(input("Digite um número: "))
 
 if num % 2 == 0:

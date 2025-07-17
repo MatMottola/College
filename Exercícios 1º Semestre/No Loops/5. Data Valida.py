@@ -1,3 +1,5 @@
+#Verificador de data válida sem o uso de loops.
+
 dd=[00,31,28,31,30,31,30,31,31,30,31,30,31]
 ind_erro=dia=mes=ano= 0
 
