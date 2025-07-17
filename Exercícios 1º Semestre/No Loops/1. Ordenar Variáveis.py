@@ -1,3 +1,5 @@
+#Ordenar três números inteiros em ordem crescente sem o uso de loops.
+
 n1=n2=n3=aux=0
 
 n1=int(input("Digite o primeiro número: "))

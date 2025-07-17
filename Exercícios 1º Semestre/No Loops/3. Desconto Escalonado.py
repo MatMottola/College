@@ -1,3 +1,5 @@
+#Calculo de desconto escalonado sem o uso de loops.
+
 valor = 0.0
 desct = 0.0
 

@@ -1,3 +1,5 @@
+#Verificador de Par ou Ímpar sem o uso de loops usando bitwise.
+
 num = int(input("Digite um número: "))
 
 b = num >> 1
