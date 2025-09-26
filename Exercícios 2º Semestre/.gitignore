@@ -1,0 +1,7 @@
+# Ignorar arquivos de build e debug
+*.exe
+*.ilk
+*.obj
+*.pdb
+.exe,.ilk,.obj,.pdb
+*.json
