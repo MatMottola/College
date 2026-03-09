@@ -22,5 +22,6 @@ r2 = (-b - sqrt(pow(b,2)-4*a*c)) / (2*a);
 
 printf("As raizes sao:\nR1 = %.2f \nR2 = %.2f \n",r1,r2);
 
-    return 0;
+   
+return 0;
 }

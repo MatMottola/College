@@ -31,5 +31,6 @@ else {
     }
 
 	_textcolor(7);
+    
     return 0;
 }

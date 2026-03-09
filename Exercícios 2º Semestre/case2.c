@@ -28,7 +28,6 @@ scanf("%f %c %f", &x,&o,&y);
         
         default : printf("Operador Invalido\n");
         break;
-        }
-    
+        }  
 return 0;
 }

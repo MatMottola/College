@@ -16,7 +16,6 @@ switch (n) {
     default:putchar('*');
     case 5:putchar('D');
             }
-
 puts(".");
 return 0;
 }
