@@ -1,8 +1,6 @@
 #include <stdio.h>  
 #include <conio.h>
 
-
-
 int main() {
 float p1,p2,m;
 int faltas;
@@ -20,10 +18,19 @@ if (m>=6 && faltas <= 5)  {
             _textcolor(9);
             puts ("Aprovado ");
           }    
-else        {
+          
+else if (m<=4 || faltas > 5)       
+		{
             _textcolor(12);
             puts ("Reprovado ");
             }
+
+else {
+    _textcolor(6);
+	puts("Recuperacao");
+    }
+
 	_textcolor(7);
+    
     return 0;
 }
